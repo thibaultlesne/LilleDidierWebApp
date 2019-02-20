@@ -1,0 +1,10 @@
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/core/Produit.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/web/JsonServlet.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/core/RevisionBasesJava.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/core/Categorie.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/core/ProduitService.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/core/ProduitServiceJdbc.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/web/MyMvcServlet.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/core/TestJdbc.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/web/EmpruntServlet.java
+/home/stage/workspace/lille_didierWebApp/src/main/java/com/atos/tp/core/ProduitServiceSimu.java
